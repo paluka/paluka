@@ -1,5 +1,6 @@
 - I am a Canadian 🇨🇦 full stack developer currently working at Nuvalence
 - I have spent over four years working in a computer science research lab 🔭
+- Here is my personal website showcasing my research work: [erikpaluka.com](https://erikpaluka.com)
 - I conducted research in the areas of Human-Computer Interaction (HCI) and Information Visualization, <br/> including designing and creating, and then conducting research studies on:
   - a multi-touch tabletop Java application for language learning
     - [TandemTable link](https://vialab.science.uoit.ca/research/tandemtable)
