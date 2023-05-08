@@ -2,9 +2,9 @@
 - I have spent over four years working in a computer science research lab 🔭
 - I conducted research in the areas of Human-Computer Interaction (HCI) and Information Visualization, <br/> including designing and creating, and then conducting research studies on:
   - a multi-touch tabletop Java application for language learning
-    - [TandemTable link](http://vialab.science.uoit.ca/research/tandemtable)
+    - [TandemTable link](https://vialab.science.uoit.ca/research/tandemtable)
   - a multi-touch computing Java component library to make it easier for people to create prototypes and conduct research
-    -  [Simple Multi-Touch (SMT) Toolkit link](http://vialab.science.uoit.ca/research/smt-toolkit)
+    -  [Simple Multi-Touch (SMT) Toolkit link](https://vialab.ca/research/simple-multi-touch-toolkit))
   - a Java system for off-screen interaction that is based on spatial user input (mid-air gestures) to offload content into the space around the screen  and making them available using information visualization and exploration techniques
     - [Off-Screen Desktop link](https://www.erikpaluka.com/research/off-screen-desktop/)
 - How to reach me:
