@@ -1,4 +1,4 @@
-- I am a Canadian 🇨🇦 full stack developer currently working at Nuvalence
+- I am a Canadian 🇨🇦 full stack software developer currently working at Strategix AI where I am a co-founder and Director of Engineering
 - I have spent over four years working in a computer science research lab 🔭
 - Here is my personal website showcasing my research work: [erikpaluka.com](https://erikpaluka.com)
 - I conducted research in the areas of Human-Computer Interaction (HCI) and Information Visualization, <br/> including designing and creating, and then conducting research studies on:
