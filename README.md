@@ -1,13 +1,19 @@
-- I am a Canadian 🇨🇦 full stack software engineer currently working at Strategix AI where I am a co-founder and lead engineer
+- I am a senior full stack JavaScript/TypeScript software engineer 👨‍🔬
+- I have 8+ years of professional experience working with top brands ranging from Ford, AAA, RBC, CBS Sports, Audacy, etc.
+- I have bachelor's and master's degrees in computer science from Ontario Tech University 🎓
+- I am legally authorized/entitled/allowed to work in Canada 🇨🇦 and the European Union 🇪🇺
+
 - I have spent over four years working in a computer science research lab 🔭
 - Here is my personal website showcasing my research work: [erikpaluka.com](https://erikpaluka.com)
 - I conducted research in the areas of Human-Computer Interaction (HCI) and Information Visualization, <br/> including designing and creating, and then conducting research studies on:
-  - a multi-touch tabletop Java application for language learning
+  - a multi-touch tabletop system for language learning built in Java
     - [TandemTable link](https://vialab.ca/research/tandemtable)
-  - a multi-touch computing Java component library to make it easier for people to create prototypes and conduct research
+  - a multi-touch computing Java component library that makes it easier for people to create prototypes and conduct research
     -  [Simple Multi-Touch (SMT) Toolkit link](https://vialab.ca/research/simple-multi-touch-toolkit))
-  - a Java system for off-screen interaction that is based on spatial user input (mid-air gestures) to offload content into the space around the screen  and making them available using information visualization and exploration techniques
+  - a Java system for off-screen interaction that is based on spatial user input (mid-air gestures) to offload content into the space around the screen and making this content available using information visualization and exploration techniques
     - [Off-Screen Desktop link](https://www.erikpaluka.com/research/off-screen-desktop/)
+  - a spatial interaction visualization application
+    - [SpatialVis link](https://erikpaluka.com/research/spatialvis/) 
 - How to reach me:
 
     [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikpaluka/)
