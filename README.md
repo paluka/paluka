@@ -9,7 +9,7 @@
   - a multi-touch tabletop system for language learning built in Java
     - [TandemTable link](https://vialab.ca/research/tandemtable)
   - a multi-touch computing Java component library that makes it easier for people to create prototypes and conduct research
-    -  [Simple Multi-Touch (SMT) Toolkit link](https://vialab.ca/research/simple-multi-touch-toolkit))
+    -  [Simple Multi-Touch (SMT) Toolkit link](https://vialab.ca/research/simple-multi-touch-toolkit)
   - a Java system for off-screen interaction that is based on spatial user input (mid-air gestures) to offload content into the space around the screen and making this content available using information visualization and exploration techniques
     - [Off-Screen Desktop link](https://www.erikpaluka.com/research/off-screen-desktop/)
   - a spatial interaction visualization application
