@@ -1,4 +1,4 @@
-- I am a senior full stack JavaScript/TypeScript software engineer 👨‍🔬
+- I am a GenAI + AI Automation + full stack JavaScript/TypeScript + Python software engineer 👨‍🔬
 - I have 8+ years of professional experience working with top brands ranging from Ford, AAA, RBC, CBS Sports, Audacy, etc.
 - I have bachelor's and master's degrees in computer science from Ontario Tech University 🎓
 - I am legally authorized/entitled/allowed to work in Canada 🇨🇦 and the European Union 🇪🇺
