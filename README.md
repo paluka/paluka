@@ -20,13 +20,13 @@
     
 The main tech that I normally code with:
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![Next JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![n8n](https://img.shields.io/badge/n8n-5b5b5b?style=for-the-badge&logo=n8n)![LangChain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green)![Open AI](https://shields.io/badge/-OpenAI-93f6ef?logo=openai)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![Next JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![n8n](https://img.shields.io/badge/n8n-5b5b5b?style=for-the-badge&logo=n8n)![LangChain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green)![OpenAI](https://shields.io/badge/-OpenAI-93f6ef?logo=openai)![Anthropic](https://img.shields.io/static/v1?style=for-the-badge&message=Anthropic&color=191919&logo=Anthropic&logoColor=FFFFFF)
 
 Apart from my professional experience with the above technologies, I also have professional experience building
-— a generative AI RAG system (Pinecone, FAISS)
-— custom chat bots using self-hosted Llama model, LangGraph, LangChain, LangFuse
-— AI automation workflows with LangFlow and n8n
-— an AI augmented system using OpenAI API and Anthropic API with prompt engineering
+- a generative AI RAG system (Pinecone, FAISS)
+- custom chat bots using self-hosted Llama model, LangGraph, LangChain, LangFuse
+- AI automation workflows with LangFlow and n8n
+- an AI augmented system using OpenAI API and Anthropic API with prompt engineering
 - a Roku OTT app (BrightScript) from the ground up
 - component libraries for React Native + iOS Swift
 - Vue.js components
