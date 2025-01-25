@@ -24,7 +24,7 @@ The main tech that I normally code with:
 
 Apart from my professional experience with the above technologies, I also have professional experience building
 - a generative AI RAG system (Pinecone, FAISS)
-- custom chat bots using self-hosted Llama model, LangGraph, LangChain, LangFuse
+- custom conversational AI agents using self-hosted Llama model, LangGraph, LangChain, LangFuse
 - AI automation workflows with LangFlow and n8n
 - an AI augmented system using OpenAI API and Anthropic API with prompt engineering
 - a Roku OTT app (BrightScript) from the ground up
