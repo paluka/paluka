@@ -38,10 +38,10 @@ The main tech that I normally code with:
 <img width="100" heigh="100"/>
 
 Apart from my professional experience with the above technologies, I also have professional experience building
-- a generative AI RAG system (Pinecone, FAISS)
+- generative AI RAG systems (Pinecone, FAISS)
 - custom conversational AI agents using self-hosted Llama model, LangGraph, LangChain, LangFuse
 - AI automation workflows with LangFlow and n8n
-- an AI augmented system using OpenAI API and Anthropic API with prompt engineering
+- AI augmented systems using OpenAI API and Anthropic API with prompt engineering
 - a Roku OTT app (BrightScript) from the ground up
 - component libraries for React Native + iOS Swift
 - Vue.js components
