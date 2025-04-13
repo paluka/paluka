@@ -22,19 +22,18 @@ The main tech that I normally code with:
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Next JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)<a href="https://www.langchain.com/langgraph" target="_blank" rel="noopener noreferrer" style="background-color: rgb(4, 62, 93);">
-  <img src="https://camo.githubusercontent.com/aa9ac1dd8ce3d5709d1537d88e35b98b3f40734e850004aa9b5b96bcc1fd3d2c/68747470733a2f2f6c616e67636861696e2d61692e6769746875622e696f2f6c616e6767726170682f7374617469632f776f72646d61726b5f6c696768742e737667" height="20" style="vertical-align: middle; background-color: rgb(4, 62, 93);"/>
-</a>![LangChain](https://img.shields.io/static/v1?style=for-the-badge&message=LangChain&color=ffffff&logo=langchain&logoColor=green&label=)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)![LangChain](https://img.shields.io/static/v1?style=for-the-badge&message=LangChain&color=ffffff&logo=langchain&logoColor=green&label=)<img width="20px"/><a href="https://www.langchain.com/langgraph" target="_blank" rel="noopener noreferrer"><img src="https://camo.githubusercontent.com/aa9ac1dd8ce3d5709d1537d88e35b98b3f40734e850004aa9b5b96bcc1fd3d2c/68747470733a2f2f6c616e67636861696e2d61692e6769746875622e696f2f6c616e6767726170682f7374617469632f776f72646d61726b5f6c696768742e737667" height="20" style="vertical-align: middle;"/></a>
 
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ![n8n](https://img.shields.io/badge/n8n-5b5b5b?style=for-the-badge&logo=n8n)
-<a href="https://www.langflow.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://framerusercontent.com/images/nOfdJGAX6qhOog6bqsyOeqehA.svg" height="20" style="vertical-align: middle;"/>
-</a>
+<img width="20px"/><a href="https://www.langflow.org/" target="_blank" rel="noopener noreferrer"><img src="https://framerusercontent.com/images/nOfdJGAX6qhOog6bqsyOeqehA.svg" height="20" style="vertical-align: middle;padding:5px;"/></a>
 
-![LLaMA](https://img.shields.io/badge/llama-%234285F4.svg?style=for-the-badge&logo=meta&logoColor=white)![OpenAI](https://img.shields.io/badge/openai-412991.svg?style=for-the-badge&logo=openai&logoColor=white)![Anthropic](https://img.shields.io/static/v1?style=for-the-badge&message=Anthropic&color=191919&logo=Anthropic&logoColor=FFFFFF&label=)![Gemini](https://img.shields.io/badge/gemini-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![LLaMA](https://img.shields.io/badge/llama-%234285F4.svg?style=for-the-badge&logo=meta&logoColor=white)![OpenAI](https://img.shields.io/badge/openai-412991.svg?style=for-the-badge&logo=openai&logoColor=white)![Anthropic](https://img.shields.io/static/v1?style=for-the-badge&message=Anthropic&color=191919&logo=Anthropic&logoColor=FFFFFF&label=)
+
+<a href="https://gemini.google.com" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Gemini_language_model_logo.png/330px-Gemini_language_model_logo.png" height="20" style="vertical-align: middle;padding:5px !important;"/></a><img width="20px"/><a href="https://www.deepseek.com/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/DeepSeek_logo.svg/330px-DeepSeek_logo.svg.png" height="20" style="vertical-align: middle;padding:5px;"/></a>
+
 
 
 Apart from my professional experience with the above technologies, I also have professional experience building
