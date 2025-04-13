@@ -44,3 +44,4 @@ Apart from my professional experience with the above technologies, I also have p
 - a Roku OTT app (BrightScript) from the ground up
 - component libraries for React Native + iOS Swift
 - Vue.js components
+- Multi-touch (tabletops, wall displays, desktop monitors) and spatial interaction (mid-air gestures) systems using Java
